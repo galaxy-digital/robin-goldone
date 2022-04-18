@@ -1,0 +1,82 @@
+{
+	"NA": {
+		"color": {
+			"Red":	    	511,
+			"White":	    255,
+			"Blue":	    	191,
+			"Black":	    179,
+			"Silver":	    64,
+			"Green":	    51,
+			"Yellow":	    26
+		},
+		"bodykit": {
+			"Red":	    	460,
+			"White":	    230,
+			"Blue":	    	172,
+			"Black":	    161,
+			"Silver":	    57,
+			"Green":	    46,
+			"Yellow":	    23	
+		},
+		"wheels": {
+			"Wasabis":		766,
+			"Beebs":		191,
+			"Thirty":		191,
+			"Emotes":		129
+		},
+		"wheelColors": {
+			"Black":		383,
+			"Chrome":		319,
+			"Gold":			255,
+			"Gunmetal":		255,
+			"White":		65
+		},
+		"livery": {
+			"Wave Livery":	517,
+			"Oni Livery":	516,
+			"1x1 Race Livery": 1
+		}
+	},
+	"SA": {
+		"colors": {
+			"Black S13":						327,
+			"Dark Pearl Blue S13":				184,
+			"Ivory White (KG5)/Gold S13":		179,
+			"Silver (KG1)/Grey S13":			79,
+			"Green (FG0)/Grey S13":				69,
+			"Pearl White S13":					70,
+			"Green S13":						63,
+			"Purple (LH1)/Grey S13":			42,
+			"Yellowish Silver (KG4)/Grey S13":	42
+		},
+		"bodykit": {
+			"Black Bodykit":							294,
+			"Dark Pearl Blue Bodykit":					166,
+			"Ivory White (KG5)/Gold Bodykit":			161,
+			"Silver (KG1)/Grey Bodykit":				71,
+			"Green (FG0)/Grey Bodykit":					62,
+			"Pearl White Bodykit":						62,
+			"Green Bodykit":							57,
+			"Purple (LH1)/Grey Bodykit":				38,
+			"Yellowish Silver (KG4)/Grey Bodykit":		39
+		}
+	},
+	"AE86": {
+		
+	},
+	"FC3S": {
+		
+	},
+	"DC2": {
+		
+	},
+	"R33": {
+		
+	},
+	"2JZ": {
+		
+	},
+	"C32A": {
+		
+	}
+}
