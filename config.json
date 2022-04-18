@@ -37,7 +37,7 @@
 			"1x1 Race Livery": 1
 		}
 	},
-	"SA": {
+	"S13": {
 		"colors": {
 			"Black S13":						327,
 			"Dark Pearl Blue S13":				184,
@@ -56,21 +56,78 @@
 			"Silver (KG1)/Grey Bodykit":				71,
 			"Green (FG0)/Grey Bodykit":					62,
 			"Pearl White Bodykit":						62,
-
-
-
-			
 			"Green Bodykit":							57,
 			"Purple (LH1)/Grey Bodykit":				38,
-
-
 			"Yellowish Silver (KG4)/Grey Bodykit":		39
+		},
+		"wheels": {
+			"Beebs":				317,
+			"Thirty Sevens":		317,
+			"Emotes":				211,
+			"Sdubs":				210
+		},
+		"wheelsColor": {
+			"Black":				317,
+			"Chrome":				264,
+			"Gold":					211,
+			"Gunmetal":				211,
+			"White":				52
+		},
+		"livery": {
+			"Wave Livery":				427,
+			"Oni Livery":				427,
+			"Race Livery":				1
 		}
 	},
 	"AE86": {
-		
+		"color": {
+			"Silver Metallic": 									385,
+			"White":											361,
+			"Red":												175,
+			"White/Black Panda": 								140,
+			"Red/Black Panda (2M9)": 							35,
+			"Silver/Black 2 Tone (2C5)": 						35,
+			"LT Blue Metallic/Blue Metallic 2 Tone (2V8)":		23,
+			"Black Metallic (Limited)": 						12
+		},
+		"bodykit": {
+			"Silver Metallic":								346,
+			"White Bodykit":								325,
+			"Red":											157,
+			"White/Black Panda": 							126,
+			"Red/Black Panda (2M9)": 					    31,
+			"Silver/Black 2 Tone (2C5)": 					31,
+			"LT Blue Metallic/Blue Metallic 2 Tone (2V8)": 	21,
+			"Black Metallic (Limited)":						12
+		},
+		"wheels": {	
+			"Wasabis":									816,
+			"Emotes":									175,
+			"Thirty Sevens":							117,
+			"Beebs":									58
+		},
+		"wheelsColor": {
+			"Black": 									350,
+			"Chrome": 									292,
+			"Gold": 									233,
+			"Gunmetal": 									233,
+			"White": 									58
+		},
+		"lavascirpt": {
+			"Wave Livery":						472,
+			"Oni Livery":						471,
+			"Race Livery":						1
+		}		
 	},
 	"FC3S": {
+		"color": {
+			"Brilliant Black":	 					302,
+			"Blaze Red (SQ)": 						283,
+			"Crystal White (UC)": 					189,
+			"Blue Mica (5N)": 						94,
+			"Shade Green (GU) (Infini III)": 		57,
+			"Silver Stone Metallic (3L)": 			19
+		}
 		
 	},
 	"DC2": {
