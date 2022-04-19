@@ -113,7 +113,7 @@
 			"Gunmetal": 									233,
 			"White": 									58
 		},
-		"lavascirpt": {
+		"livery": {
 			"Wave Livery":						472,
 			"Oni Livery":						471,
 			"Race Livery":						1
@@ -127,19 +127,176 @@
 			"Blue Mica (5N)": 						94,
 			"Shade Green (GU) (Infini III)": 		57,
 			"Silver Stone Metallic (3L)": 			19
+		},
+		"bodykit": {
+			"Brilliant Black": 							272,
+			"Blaze Red (SQ)": 							255,
+			"Crystal White (UC)": 						170,
+			"Blue Mica (5N)": 							85,
+			"Shade Green (GU) (Infini III)": 			51,
+			"Silver Stone Metallic (3L)": 				17
+		},
+		"wheels": {
+			"Thirty Sevens":							283,
+			"Sdubs":									283,
+			"Beebs":									189,
+			"Emotes":									189
+		},
+		"wheelsColor": {
+			"Black":								283,
+			"Chrome":								236,
+			"Gold":									189,
+			"Gunmetal":								189,
+			"White":								47
+		},
+		"livery": {
+			"Wave Livery":							382,
+			"Oni Livery":							382,
+			"Race Livery":							1
+		}
+	},
+	"DC2": {
+		"colors": {
+			"Phoenix Yellow": 						205,
+			"Championship White": 					189,
+			"Nighthawk Black Pearl": 				117,
+			"Milano Red": 							22,
+			"Vogue Silver Metallic": 				22
+		},
+		"bodykit": {
+			"Phoenix Yellow": 						185,
+			"Championship White": 					170,
+			"Nighthawk Black Pearl": 				105,
+			"Milano Red": 							20,
+			"Vogue Silver Metallic": 				20
+		},
+		"wheels": {
+			"Sdubs":									167,
+			"Thirty Sevens":							167,
+			"Beebs":									111,
+			"Emotes":									110
+		},
+		"wheelsColor": {
+			"Black":									167,
+			"Chrome":									139,
+			"Gold":										111,
+			"Gunmetal":									111,
+			"White":									27
+		},
+		"livery": {
+			"Wave Livery":									225,
+			"Oni Livery":									225,
+			"Race Livery":									1
 		}
 		
 	},
-	"DC2": {
-		
-	},
 	"R33": {
-		
+		"color": {
+			"White (QM1)": 									97,
+			"Spark Silver Metallic (KL0)": 					71,
+			"Midnight Purple (LP2)": 						39,
+			"Black (KH3)": 									20,
+			"Gun Grey Metallic": 							12,
+			"Super Clear Red (AN0)": 						4,
+			"Champion Blue (BT2)": 							2
+		},
+		"bodykit": {
+			"White (QM1)": 									87,
+			"Spark Silver Metallic (KL0)": 					64,
+			"Midnight Purple (LP2)": 						35,
+			"Black (KH3)": 									18,
+			"Gun Grey Metallic": 							11,
+			"Super Clear Red (AN0)": 						4,
+			"Champion Blue (BT2)": 							2
+		},
+		"wheels": {
+			"Beebs":										98,
+			"Thirty Sevens":								74,
+			"Emotes":										49,
+			"Sdubs":										24
+		},
+		"wheelsColor": {
+			"Black":											74,
+			"Chrome":											61,
+			"Gold":												49,
+			"Gunmetal":											49,
+			"White":											12
+		},
+		"livery": {
+			"Wave Livery":											99,
+			"Oni Livery":											99,
+			"Race Livery":											1
+		}
 	},
 	"2JZ": {
-		
+		"color": {
+			"Black 2JZ":												68,
+			"Red 2JZ":													56,
+			"White Supra":												29,
+			"Alpine Silver Supra":										10,
+			"Anthracite Metallic Supra":								4
+		},
+		"bodykit": {
+			"Black": 									61,
+			"Red": 										51,
+			"White": 									26,
+			"Alpine Silver": 							9,
+			"Anthracite Metallic": 						3
+		},
+		"wheels": {
+			"Sdubs":										58,
+			"Thirty Sevens":								58,
+			"Beebs":										39,
+			"Emotes":										39
+		},
+		"wheelsColor": {
+			"Black":										58,
+			"Chrome":										49,
+			"Gold":											39,
+			"Gunmetal":										39,
+			"White":										9
+		},
+		"livery": {
+			"Wave Livery":									79,
+			"Oni Livery":									78,
+			"Race Livery":									1
+		}
 	},
 	"C32A": {
-		
+		"color": {
+			"Formula Red": 								45,
+			"Berlina Black": 							34,
+			"Sebring Silver": 							13,
+			"Grand Prix White": 						6,
+			"Spa Yellow": 								4,
+			"Green": 									3,
+			"Long Beach Blue": 							3,
+			"Purple": 									2,
+			"Implant Orange": 							1
+		},
+		"bodykit": {
+			"Formula Red": 								40,
+			"Berlina Black": 							30,
+			"Sebring Silver": 							12,
+			"Grand Prix White": 						5,
+			"Spa Yellow": 								4,
+			"Green": 									3,
+			"Long Beach Blue": 							3,
+			"Purple": 									2,
+			"Implant Orange": 							1
+		},
+		"wheels": {
+			"Thirty Sevens":							44,
+			"Sdubs":									33,
+			"Emotes":									22,
+			"Beebs":									12
+		},
+		"wheelsColor": {
+			"Black":									33,
+			"Chrome":									28,
+			"Gold":										22,
+			"Gunmetal":									22,
+			"White":									6
+		}
 	}
 }
